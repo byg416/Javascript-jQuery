@@ -1,3 +1,0 @@
-예 ) "myChart" -> myChart
-chartObj = eval(mapInfo.chartObjName);
-chartObj.setOptions(initData);
